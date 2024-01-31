@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon_Testlistener_TestSuite_001" time="232.682" tests="1" failures="0" errors="0">
+   <testsuite name="Amazon_Testlistener_TestSuite_001" tests="1" failures="0" errors="0" time="232.682" skipped="0" timestamp="28-01-2024T19:42:55" hostname="Admin - LAPTOP-73RTQLDI" id="Test Suites/TestListener_ProductOrdering_Test_Suite/Amazon_Testlistener_TestSuite_001">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\Katalon Studio\\Software Automation Testing with Katalon\\Reports\\20240128_194229\\TestListener_ProductOrdering_Test_Suite\\Amazon_Testlistener_TestSuite_001\\20240128_194229"/>
+         <property name="logFiles" value="C:\\Users\\hp\\Katalon Studio\\Software Automation Testing with Katalon\\Reports\\20240128_194229\\TestListener_ProductOrdering_Test_Suite\\Amazon_Testlistener_TestSuite_001\\20240128_194229\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - LAPTOP-73RTQLDI"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="169.254.189.53"/>
+         <property name="sessionId" value="235e94f308a8907dc81cab33b34dd9a0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TestListener/TC_Amzon_Ordering_Product_001" time="216.295" classname="Test Cases/TestListener/TC_Amzon_Ordering_Product_001" status="PASSED">
+         <system-out><![CDATA[28-01-2024T19:43:11 - [TEST_CASE][PASSED] - Test Cases/TestListener/TC_Amzon_Ordering_Product_001: Test Cases/TestListener/TC_Amzon_Ordering_Product_001
+
+28-01-2024T19:43:11 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Object: 'Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+28-01-2024T19:43:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+28-01-2024T19:43:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+28-01-2024T19:43:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/input_email"), "iamjohnghost@gmail.com"): Text 'iamjohnghost@gmail.com' is set on object 'Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/input_email'
+
+28-01-2024T19:43:52 - [MESSAGE][PASSED] - Text 'iamjohnghost@gmail.com' is set on object 'Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/input_email'
+
+28-01-2024T19:43:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+28-01-2024T19:43:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+28-01-2024T19:43:54 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/input_password"), "vIW88jy3Ae0="): Text ****** has been set on object 'Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/input_password'
+
+28-01-2024T19:43:56 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/input_password'
+
+28-01-2024T19:43:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+28-01-2024T19:43:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Test_Listerners_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+28-01-2024T19:43:57 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92"), "search-alias=stripbooks-intl-ship", true): All options with value 'search-alias=stripbooks-intl-ship' are selected in object 'Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92'  using regular expression
+
+28-01-2024T19:45:58 - [MESSAGE][PASSED] - All options with value 'search-alias=stripbooks-intl-ship' are selected in object 'Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92'  using regular expression
+
+28-01-2024T19:45:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "da vinci code"): Text 'da vinci code' is set on object 'Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+28-01-2024T19:46:00 - [MESSAGE][PASSED] - Text 'da vinci code' is set on object 'Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+28-01-2024T19:46:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/div_da vinci code")): Object: 'Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/div_da vinci code' is clicked on
+
+28-01-2024T19:46:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Test_Listerners_OR/Page_Amazon.com. Spend less. Smile more/div_da vinci code' is clicked on
+
+28-01-2024T19:46:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Test_Listerners_OR/Page_Amazon.com  da vinci code/img_s-image")): Object: 'Object Repository/Test_Listerners_OR/Page_Amazon.com  da vinci code/img_s-image' is clicked on
+
+28-01-2024T19:46:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Test_Listerners_OR/Page_Amazon.com  da vinci code/img_s-image' is clicked on
+
+28-01-2024T19:46:48 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[28-01-2024T19:42:55 - [TEST_SUITE][PASSED] - Amazon_Testlistener_TestSuite_001: Test Cases/TestListener/TC_Amzon_Ordering_Product_001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

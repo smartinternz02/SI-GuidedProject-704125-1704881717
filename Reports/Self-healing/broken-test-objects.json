@@ -1,3 +1,194 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook_page_OR/Page_Facebook  log in or sign up/a_Create new account",
+      "brokenLocator": "//a[@id\u003d\u0027u_0_0_M5\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Create new account\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Facebook_page_OR/Page_Facebook  log in or sign up/a_Create new account_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook_page_OR/Page_Facebook  log in or sign up/button_Sign Up",
+      "brokenLocator": "//button[@id\u003d\u0027u_4_s_nP\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027reg_form_box\u0027]/div[11]/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Facebook_page_OR/Page_Facebook  log in or sign up/button_Sign Up_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Cura_OR/Page_CURA Healthcare Service/a_Create new account",
+      "brokenLocator": "//a[@id\u003d\u0027u_0_0_M5\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Create new account\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Cura_OR/Page_CURA Healthcare Service/a_Create new account_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Registrations_OR/Page_Amazon.com. Spend less. Smile more/a_Start here",
+      "brokenLocator": "//div[@id\u003d\u0027nav-flyout-ya-newCust\u0027]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div[2]/div/div/div/div/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_Registrations_OR/Page_Amazon.com. Spend less. Smile more/a_Start here_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Registrations_OR/Page_Amazon Registration/input_customerName",
+      "brokenLocator": "//input[@id\u003d\u0027ap_customer_name\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Registrations_OR/Page_Amazon Registration/input_email",
+      "brokenLocator": "//input[@id\u003d\u0027ap_email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_Registrations_OR/Page_Amazon Registration/input_email_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Registrations_OR/Page_Authentication required/input_code",
+      "brokenLocator": "//input[@id\u003d\u0027cvf-input-code\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_Registrations_OR/Page_Authentication required/input_code_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Manual_Registration_OR/Page_Amazon Sign-In/a_Create your Amazon account",
+      "brokenLocator": "//a[@id\u003d\u0027createAccountSubmit\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_Manual_Registration_OR/Page_Amazon Sign-In/a_Create your Amazon account_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Manual_Registration_OR/Page_Amazon Registration/input_Your name_customerName",
+      "brokenLocator": "//input[@id\u003d\u0027ap_customer_name\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_Manual_Registration_OR/Page_Amazon Registration/input_Your name_customerName_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Add_To_cart_OR/Page_Amazon Sign-In/input_email",
+      "brokenLocator": "//input[@id\u003d\u0027ap_email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Dropdown_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in",
+      "brokenLocator": "//span[@id\u003d\u0027nav-link-accountList-nav-line-1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[@id\u003d\u0027nav-link-accountList-nav-line-1\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Dropdown_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Manual_Registration_OR/Page_Amazon.com/input_Try different image_field-keywords",
+      "brokenLocator": "//input[@id\u003d\u0027captchacharacters\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Manual_Login_OR/Page_Amazon Sign-In/input_Email or mobile phone number_email",
+      "brokenLocator": "//input[@id\u003d\u0027ap_email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Manual_Login_OR/Page_Amazon Sign-In/input_Enter your email or mobile phone number_continue",
+      "brokenLocator": "//input[@id\u003d\u0027continue\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Manual_Login_OR/Page_Amazon Sign-In/input_Enter your email or mobile phone number_continue_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Manual_Login_OR/Page_Amazon Sign-In/input_Forgot your password_password",
+      "brokenLocator": "//input[@id\u003d\u0027ap_password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/input_email",
+      "brokenLocator": "//input[@id\u003d\u0027ap_email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/input_email_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/inputcontinue",
+      "brokenLocator": "//input[@id\u003d\u0027continue\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/inputcontinue_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/input_password",
+      "brokenLocator": "//input[@id\u003d\u0027ap_password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/inputsignInSubmit",
+      "brokenLocator": "//input[@id\u003d\u0027signInSubmit\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/inputsignInSubmit_position.png"
+    }
+  ]
 }

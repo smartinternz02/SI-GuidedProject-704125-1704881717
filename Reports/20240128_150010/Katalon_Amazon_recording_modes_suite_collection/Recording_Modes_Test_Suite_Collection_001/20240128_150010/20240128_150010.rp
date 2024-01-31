@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportCollectionEntity>
+   <description></description>
+   <name>20240128_150010</name>
+   <tag></tag>
+   <displayName>20240128_150010</displayName>
+   <reportItemDescriptions>
+      <ReportItemDescription>
+         <reportLocation>Reports/20240128_150010/Katalon_Amazon_recoding_modes_Suite_001/Recording_Modes_Test_Suite_001/20240128_150023</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+   </reportItemDescriptions>
+   <testSuiteCollectionId>Test Suites/Katalon_Amazon_recording_modes_suite_collection/Recording_Modes_Test_Suite_Collection_001</testSuiteCollectionId>
+</ReportCollectionEntity>

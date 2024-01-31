@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/input_email",
+      "brokenLocator": "//input[@id\u003d\u0027ap_email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240128_143312/Recording_Modes_suite/Katalon_Amazon_Test_Suites_001/20240128_143312/Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/input_email_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/inputcontinue",
+      "brokenLocator": "//input[@id\u003d\u0027continue\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240128_143312/Recording_Modes_suite/Katalon_Amazon_Test_Suites_001/20240128_143312/Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/inputcontinue_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/input_password",
+      "brokenLocator": "//input[@id\u003d\u0027ap_password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/inputsignInSubmit",
+      "brokenLocator": "//input[@id\u003d\u0027signInSubmit\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240128_143312/Recording_Modes_suite/Katalon_Amazon_Test_Suites_001/20240128_143312/Object Repository/Search_Browse_Record_and_Playback_OR/Page_Amazon Sign-In/inputsignInSubmit_position.png"
+    }
+  ]
+}

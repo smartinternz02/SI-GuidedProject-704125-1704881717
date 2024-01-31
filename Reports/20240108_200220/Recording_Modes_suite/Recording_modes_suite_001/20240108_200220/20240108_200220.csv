@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Recording_modes_suite_001,Chrome 120.0.0.0,,,08-01-2024 20:02:40,08-01-2024 20:05:22,2m - 42.862s,PASSED
+,,,,,,,
+Test Cases/Recording Modes/Manual Record Mode,Chrome 120.0.0.0,,,08-01-2024 20:02:40,08-01-2024 20:03:21,40.567s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,08-01-2024 20:02:41,08-01-2024 20:02:49,7.697s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 120.0.0.0,,,08-01-2024 20:02:49,08-01-2024 20:02:53,4.391s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,08-01-2024 20:02:53,08-01-2024 20:02:53,0.274s,PASSED
+"click(findTestObject(""Cura_OR/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 120.0.0.0,,,08-01-2024 20:02:53,08-01-2024 20:02:55,1.896s,PASSED
+"setText(findTestObject(""Cura_OR/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 120.0.0.0,,,08-01-2024 20:02:55,08-01-2024 20:02:58,2.496s,PASSED
+"setText(findTestObject(""Cura_OR/Page_CURA Healthcare Service/input_Password_password""), ""ThisIsNotAPassword"")",Chrome 120.0.0.0,,,08-01-2024 20:02:58,08-01-2024 20:02:59,1.086s,PASSED
+"click(findTestObject(""Cura_OR/Page_CURA Healthcare Service/button_Login""))",Chrome 120.0.0.0,,,08-01-2024 20:02:59,08-01-2024 20:03:01,2.555s,PASSED
+"verifyElementPresent(findTestObject(""Amazon_Pages_SearchItem_OR/Page_Amazon.com. Spend less. Smile more/input_india_a-button-input""), 0)",Chrome 120.0.0.0,,,08-01-2024 20:03:01,08-01-2024 20:03:20,18.301s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,08-01-2024 20:03:20,08-01-2024 20:03:21,0.994s,PASSED
+,,,,,,,
+Test Cases/Recording Modes/Record and playback_001,Chrome 120.0.0.0,,,08-01-2024 20:03:21,08-01-2024 20:05:17,1m - 56.472s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,08-01-2024 20:03:22,08-01-2024 20:03:26,3.670s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 120.0.0.0,,,08-01-2024 20:03:26,08-01-2024 20:03:28,2.677s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Page_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=stripbooks-intl-ship"", true)",Chrome 120.0.0.0,,,08-01-2024 20:03:28,08-01-2024 20:04:04,35.824s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Page_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""da vinci code"")",Chrome 120.0.0.0,,,08-01-2024 20:04:04,08-01-2024 20:04:40,35.549s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Page_OR/Page_Amazon.com. Spend less. Smile more/div_da vinci code""))",Chrome 120.0.0.0,,,08-01-2024 20:04:40,08-01-2024 20:05:17,36.753s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,08-01-2024 20:05:17,08-01-2024 20:05:17,0.622s,PASSED
+,,,,,,,
+Test Cases/Recording Modes/Script Mode_003,Chrome 120.0.0.0,,,08-01-2024 20:05:17,08-01-2024 20:05:22,5.097s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,08-01-2024 20:05:18,08-01-2024 20:05:19,1.218s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 120.0.0.0,,,08-01-2024 20:05:19,08-01-2024 20:05:21,2.208s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Pages_OR/Page_Amazon.com/input_field-keywords""))",Chrome 120.0.0.0,,,08-01-2024 20:05:21,08-01-2024 20:05:21,0.383s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Pages_OR/Page_Amazon.com/input_field-keywords""), ""LFNGPU"")",Chrome 120.0.0.0,,,08-01-2024 20:05:21,08-01-2024 20:05:22,0.245s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Pages_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=stripbooks-intl-ship"", true)",Chrome 120.0.0.0,,,08-01-2024 20:05:22,08-01-2024 20:05:22,0.159s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Pages_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""))",Chrome 120.0.0.0,,,08-01-2024 20:05:22,08-01-2024 20:05:22,0.117s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Pages_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Da vinci code"")",Chrome 120.0.0.0,,,08-01-2024 20:05:22,08-01-2024 20:05:22,0.122s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Pages_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 120.0.0.0,,,08-01-2024 20:05:22,08-01-2024 20:05:22,0.144s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,08-01-2024 20:05:22,08-01-2024 20:05:22,0.227s,PASSED

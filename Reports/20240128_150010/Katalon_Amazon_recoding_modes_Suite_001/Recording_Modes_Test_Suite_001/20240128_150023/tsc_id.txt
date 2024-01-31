@@ -1,0 +1,1 @@
+Test Suites/Katalon_Amazon_recording_modes_suite_collection/Recording_Modes_Test_Suite_Collection_001
